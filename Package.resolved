@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-math-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/anders0nmat/swift-math-parser",
+      "state" : {
+        "revision" : "d26507ae00f7a991a6711f421f824d7116ccf878",
+        "version" : "0.3.0"
+      }
+    }
+  ],
+  "version" : 2
+}
